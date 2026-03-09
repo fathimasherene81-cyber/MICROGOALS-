@@ -1,2 +1,2 @@
 # MICROGOALS-
-# for .env file please check the team's gdrive link where CODE FILE is there. we have submitted it to the faculty as well. As it is a sensitive file with api_keys and passwords we didnot upload it to git.
+# FOR DOCUMENTATION: https://docs.google.com/document/d/19iXs0mhjdJQKwExCKYGnv7j2OV7jlpU9i9m0hwoUEtE/edit?usp=sharing
